@@ -48,7 +48,6 @@ const Footer = () => {
       </div>
       <div className="flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center">
         <div className="flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer">
-          <p> Copyright. All rights reserved.</p>
           <p>
             Copyright &copy; 2023 | All Rights Reserved | Page created to
             practice with{" "}
