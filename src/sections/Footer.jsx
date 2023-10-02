@@ -49,6 +49,16 @@ const Footer = () => {
       <div className="flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center">
         <div className="flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer">
           <p>&copy; Copyright. All rights reserved.</p>
+          <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
+            Copyright Ⓒ 2023 | All Rights Reserved | Page created to practice
+            with{" "}
+            <a
+              href="https://www.youtube.com/@javascriptmastery"
+              className="hover:underline"
+            >
+              JS Mastery YouTube
+            </a>
+          </p>
         </div>
         <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
       </div>
