@@ -1,8 +1,37 @@
-# React + Vite
+![](./readmeImg/all-devices-black.png)
+# Nike 2.0 - landingpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Preview: [Here](nike-2-landingpage.vercel.app)**
 
-Currently, two official plugins are available:
+Fully responsive and modern looking landingpage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+---
+
+**React with Vite Project** made as a practice project. There is only first page in the website. In this project I learned how to create modern UI, understand how is Tailwind working and Tailwind best practices. By this project I betterment also my JS and React skills. <br> The page is divided into sections:
+- Hero,
+- Popular products,
+- Super quality,
+- Services,
+- Special offer,
+- Customer reviews,
+- Subscribe,
+
+
+## In project are used: 
+- Reuseable components,
+- Mapping ready for imports from database
+- Responsive Web Design (RWD)
+
+
+## Tools Used
+1. JavaScript (React)
+2. Vite
+3. Tailwind (Styles)
+4. Vercel (Deployment)
+5. VSCode (Code Editor)
+
+
+
+Deploy on Vercel free, <br>
+[Link to tutorial by JSMastery](https://www.youtube.com/watch?v=tS7upsfuxmo)
