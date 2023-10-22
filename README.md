@@ -1,7 +1,7 @@
 ![](./readmeImg/all-devices-black.png)
 # Nike 2.0 - landingpage
 
-**Live Preview: [Here](nike-2-landingpage.vercel.app)**
+**Live Preview: [Here](https://nike-2-landingpage.vercel.app)**
 
 Fully responsive and modern looking landingpage.
 
